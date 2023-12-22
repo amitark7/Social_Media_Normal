@@ -1,0 +1,39 @@
+.media_layout{
+  display: flex;
+}
+
+.content{
+  width: 100%;
+}
+
+.media_sidebar{
+  min-height: 695px;
+}
+.create-post{
+  width: 550px;
+  margin: 20px auto;
+}
+
+.create-post-header{
+  font-size: 20px;
+}
+
+.post{
+  margin: 12px auto;
+  width: 50rem !important;
+}
+
+.tag{
+  margin:2px;
+}
+
+.reactions{
+  margin-top: 15px;
+}
+.welcome-header{
+  margin-top: 50px;
+}
+
+.spinner{
+  margin-top: 80px;
+}
